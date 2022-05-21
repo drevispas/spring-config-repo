@@ -1,6 +1,6 @@
 client:
   order:
-    amount: 1002
+    amount: 1003
     lookback-seconds: 3600
     sell-roi: 0.005
 
