@@ -1,6 +1,6 @@
 client:
   order:
-    amount: ${ORDER_AMOUNT:1000}
-    lookback-seconds: ${LOOKBACK_SECONDS:3600}
-    sell-roi: ${SELL_ROI:0.005}
+    amount: 1000
+    lookback-seconds: 3600
+    sell-roi: 0.005
 
